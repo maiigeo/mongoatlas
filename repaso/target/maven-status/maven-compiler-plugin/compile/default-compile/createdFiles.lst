@@ -1,0 +1,9 @@
+com\marilyn\repaso\model\Telefonia.class
+com\marilyn\repaso\RepasoApplication.class
+com\marilyn\repaso\service\GenericServiceImpl.class
+com\marilyn\repaso\service\PersonaServiceImpl.class
+com\marilyn\repaso\controller\PersonaController.class
+com\marilyn\repaso\repository\PersonaRepository.class
+com\marilyn\repaso\model\Persona.class
+com\marilyn\repaso\service\GenericService.class
+com\marilyn\repaso\model\Contactos.class
